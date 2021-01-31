@@ -1,5 +1,5 @@
-There is a mestake in this line
-There are two mestaks in this line
-Aple
-Comfortuble
-Fifth line of this docoment
+There is a mestake in this line/mistake
+There are two mestaks in this line/mistakes
+Aple/Apple
+Comfortuble/Comfortable
+Fifth line of this docoment/document
